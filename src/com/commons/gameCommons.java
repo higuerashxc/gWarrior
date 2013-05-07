@@ -24,6 +24,7 @@ import android.graphics.Typeface;
 import com.perpixelperfectcollision.PixelPerfectTextureRegionFactory;
 import com.perpixelperfectcollision.PixelPerfectTiledTextureRegion;
 
+//Changes on master
 public class gameCommons {
 
 	private static final int sprite_map_with=1024;
